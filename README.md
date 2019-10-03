@@ -18,7 +18,7 @@ It is going to run Parcel `serve`, so you will have HMR and a local server runni
 npm run build
 ```
 
-It is going to run Parcel `build` with some extra (minimal) configs. The built project will be inside `/docs` folder.
+It is going to run Parcel `build` with some extra (minimal) configs. The built project will be inside `/dist` folder.
 
 # Contribution guidelines
 
