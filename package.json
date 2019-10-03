@@ -3,7 +3,7 @@
   "description": "Ich bin eine Kartoffel",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --detailed-report --out-dir docs"
+    "build": "parcel build index.html --detailed-report"
   },
   "repository": {
     "type": "git",
