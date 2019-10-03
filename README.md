@@ -19,3 +19,7 @@ npm run build
 ```
 
 It is going to run Parcel `build` with some extra (minimal) configs. The built project will be inside `/docs` folder.
+
+# Contribution guidelines
+
+This project uses [!Gitmoji](https://gitmoji.carloscuesta.me) for commits.
