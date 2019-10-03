@@ -22,4 +22,4 @@ It is going to run Parcel `build` with some extra (minimal) configs. The built p
 
 # Contribution guidelines
 
-This project uses [!Gitmoji](https://gitmoji.carloscuesta.me) for commits.
+This project uses [Gitmoji](https://gitmoji.carloscuesta.me) for commits.
